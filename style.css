@@ -1,0 +1,16 @@
+nav, footer{
+    background:rgb(13, 39, 33);
+    color:rgb(179, 155, 33);
+    }ul li:nth-child(odd)
+     {
+        background:rgb(69, 8, 73);
+    color:rgb(251, 251, 252);
+    }
+    nav a{
+        color:white;
+        }
+        .site-title{
+            color:rgb(4, 1, 1);
+            }
+            #my‐image { box-shadow: 1px 3px 3px #00d9ffdf;}
+            
